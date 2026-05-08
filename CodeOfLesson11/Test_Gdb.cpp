@@ -1,5 +1,4 @@
 #include <iostream>
-
 int func(int a, int b) {
     int result = 0;
     int flag = 1;
