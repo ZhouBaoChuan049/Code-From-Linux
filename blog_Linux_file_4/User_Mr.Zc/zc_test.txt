@@ -1,0 +1,2 @@
+Buffer test without newline. Trigger line flush!
+This line relies on Fclose to flush.
